@@ -1,3 +1,4 @@
 # imageProcessingUsingPython
 
-- ソースコードのみ、動画がないと動きません
+- ソースコードのみ
+- 動画と、Openposeで書き出したjsonファイルがないと動きません
